@@ -4,14 +4,14 @@
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
     
   },
   "NFT_NAME": " FlutterFlies ",
   "SYMBOL": "FF",
   "MAX_SUPPLY": 2500,
   "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 0.05,
+  "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/phantanimals-v2",
