@@ -1,6 +1,8 @@
 html {
   height: 100px;
   margin-top: -120px !important;
+  /* min-width: 100%;
+  min-height: 100%; */
 
 }
 
@@ -9,6 +11,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  height: 200px;
 }
 
 :root {
@@ -141,9 +144,8 @@ body {
 
 }
 
-.ldXLMx {
-  font-size: 1.4rem !important;
-  border-radius: 10px;
+.lol {
+  /* font-size: 1.4rem !important; */
   background-color: #00DBDE;
   background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
 }
