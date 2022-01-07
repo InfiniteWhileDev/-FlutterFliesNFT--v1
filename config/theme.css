@@ -128,12 +128,11 @@ body {
 }
 
 .cost {
-  background-color: #00DBDE;
-  background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
   padding: 1rem;
   border-radius: 15px;
   font-weight: bold;
   margin-right: 15px;
+  border: 2px solid #FC00FF;
 
 }
 
