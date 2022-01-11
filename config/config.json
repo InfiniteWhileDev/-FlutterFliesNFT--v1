@@ -1,19 +1,20 @@
 {
-  "CONTRACT_ADDRESS": "0x62fd1a07e0DAf8D664227265Ec7fC176cdb25843",
+  "CONTRACT_ADDRESS": "0x69EEBeC795e72BB0321657fb6b28B7D189d7Bc1C",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x16083fa4a11943f16f8e21bab108dd1c6df60495",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
     
   },
-  "NFT_NAME": " FlutterFlies ",
-  "SYMBOL": "FF",
-  "MAX_SUPPLY": 10,
-  "WEI_COST": 60000000000000000,
-  "DISPLAY_COST": 0.06,
+  "NFT_NAME": " Doodlefly ",
+  "SYMBOL": "DF",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/phantanimals-v2",
   "SHOW_BACKGROUND": false
+
 }
