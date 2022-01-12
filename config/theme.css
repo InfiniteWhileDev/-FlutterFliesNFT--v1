@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background: black;
+  background: rgba(0, 0, 0, 0);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -124,6 +124,7 @@ body {
   border: 2px solid #00DBDE;
   border-radius: 15px;
   margin-left: 15px;
+  background-repeat: no-repeat;
  
 }
 
